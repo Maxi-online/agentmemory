@@ -1,3 +1,9 @@
+## Fork context
+
+This repository is a fork of [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory). The upstream documentation and license notices are retained below. Repository presence alone does not identify which changes were made by the fork maintainer; review the commit comparison for that purpose. Keep personal configuration, credentials and datasets outside Git, and use synthetic fixtures when sharing reproductions.
+
+---
+
 <p align="center">
   <img src="assets/banner.png" alt="agentmemory — Persistent memory for AI coding agents" width="720" />
 </p>
